@@ -18,9 +18,6 @@
     - [Finding Index of an Item](#finding-index-of-an-item)
     - [Reversing a List](#reversing-a-list)
     - [Sorting List Items](#sorting-list-items)
-  - [💻 Exercises: Day 5](#-exercises-day-5)
-    - [Exercises: Level 1](#exercises-level-1)
-    - [Exercises: Level 2](#exercises-level-2)
 
 # Day 5
 
