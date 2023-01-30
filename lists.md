@@ -19,7 +19,6 @@
     - [Reversing a List](#reversing-a-list)
     - [Sorting List Items](#sorting-list-items)
 
-# Day 5
 
 ## Lists
 
